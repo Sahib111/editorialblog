@@ -1,1 +1,31 @@
-Gh
+.post-description {
+    float: none;
+  width: 100%;
+   height: auto; 
+    margin-right: 5px;
+}
+
+.articlehome article {
+    position: relative;
+     top: 0;
+  transform: none;
+    padding: 0;
+}
+
+.post-outer {
+    border: none;
+    
+}
+
+ul.post-nav {
+   
+   border-bottom: none;
+    border-top: none; 
+    
+}
+
+.post-nav .previous {
+    
+    border-right: none;
+    
+}
